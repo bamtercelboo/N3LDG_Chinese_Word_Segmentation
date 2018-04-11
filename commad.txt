@@ -1,0 +1,5 @@
+cmake .. -DEIGEN3_DIR=E:\workspace\Visual_Studio_Worksapce\environment\eigen -DN3LDG_DIR=E:\workspace\Visual_Studio_Worksapce\environment\N3LDG
+
+-l -train E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\Data\CTB6_seg\train.ctb60.seg.hwc -dev E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\Data\CTB6_seg\dev.ctb60.seg.hwc -test E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\Data\CTB6_seg\test.ctb60.seg.hwc -option E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\option\option.save
+
+-l -train E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\Data\CTB6_seg\train.ctb60.seg.hwc -dev E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\Data\CTB6_seg\train.ctb60.seg.hwc -test E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\Data\CTB6_seg\train.ctb60.seg.hwc -option E:\workspace\Visual_Studio_Worksapce\N3LDG_Chinese_Word_Segmentation\option\option.save

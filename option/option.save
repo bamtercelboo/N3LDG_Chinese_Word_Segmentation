@@ -1,0 +1,15 @@
+#charFile = 
+charEmbSize = 100
+adaAlpha = 0.001
+dropProb = -1
+delta = 0
+outBest = .save
+regParameter = 1e-08
+maxIter = 1000
+outBest = .out
+verboseIter = 1
+batchSize = 16
+characterSize = 200
+charEmbFineTune = true
+seg = true
+maxInstance = 2
